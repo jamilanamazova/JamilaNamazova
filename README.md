@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Jamila Namazova
 
-🎨 **Front-End & Mobile Developer** | React & React Native Enthusiast  
+🎨 **Front-End Developer** | React & React Native Enthusiast  
 🏫 Computer Engineering Student at **Baku Higher Oil School**  
-🚀 Passionate about building interactive, responsive, and user-friendly web & mobile applications  
+🚀 Passionate about building interactive, responsive, and user-friendly web applications  
 ⚡ Skilled in **JavaScript, TypeScript, React, React Native, Redux, REST API integration**  
 🌱 Continuously learning advanced UI/UX design and performance optimization  
-🤝 Open to collaborating on **front-end or mobile development projects**  
+🤝 Open to collaborating on **front-end development projects**  
 📫 Email: **jamila.namazova.std@bhos.edu.az**
 
 ---
